@@ -86,6 +86,7 @@ public class SearchServlet extends HttpServlet {
 
 /*
 // To be removed
+// 검색 결과 Text 조회
 response.setCharacterEncoding("UTF-8");
 PrintWriter pw = response.getWriter();
 pw.write(result);
